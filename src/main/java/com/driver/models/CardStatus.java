@@ -4,3 +4,4 @@ public enum CardStatus {
     ACTIVATED,
     DEACTIVATED
 }
+

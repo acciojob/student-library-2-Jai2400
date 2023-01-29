@@ -36,3 +36,4 @@ public class Card {
         this.cardStatus = CardStatus.ACTIVATED;
     }
 }
+
